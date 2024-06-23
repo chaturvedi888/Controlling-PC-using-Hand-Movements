@@ -1,4 +1,4 @@
-# Controlling-PC-using-Hand-Movemments
+# Controlling-PC-using-Hand-Movements
 The Hand Gesture Control for PC project epitomizes innovation in human-computer interaction, offering a natural and intuitive interface that enhances accessibility, convenience, and user experience across diverse computing contexts.
 The "Hand Gesture Control for PC" project revolutionizes human-computer interaction by enabling users to control their computers through intuitive hand movements. Leveraging cutting-edge technology, this project utilizes a combination of hardware and software components to translate gestures into actionable commands, offering a seamless and hands-free computing experience.
 
